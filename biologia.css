@@ -74,7 +74,7 @@ header {
 }
 
 .lista-vertical a:hover {
-    background-color: var(--amarelo-claro);
+    background-color: var(--roxo-claro);
 }
 
 #menu-toggle:checked~.lista-vertical {
